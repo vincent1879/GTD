@@ -1,0 +1,39 @@
+* Org-mode configuration
+#+STARTUP: overview 
+#+TAGS:  { OnFocus(f) OnInfo(i) OnBoring(b) }
+#+TAGS:  { Soon(s) Phase(p) Routines(r) Someday/Maybe(m) }
+#+SEQ_TODO: TODO(t) Block(b@) | Done(d!) Canceled(c@) 
+#+COLUMNS: %20ITEM  %5PRIORITY %10TODO %65TAGS   
+
+
+* Inbox
+
+* Task
+** TODO [#B] Transfer notes to evernote                       :OnBoring:Soon:
+
+
+* Career
+** ControlDemo
+*** TODO [#A] Optimize UI                                      :OnFocus:Soon:
+    DEADLINE: <2013-09-10 二 16:00>
+
+** XCAndroid
+
+* Training
+** AI                                                               :OnFocus:
+*** TODO [#C] Graph Theory                                             :Soon:
+** Math                                                             :OnFocus:
+*** Linear Algebra
+**** TODO [#C] LA-Chapter 2                                           :Phase:
+** UI
+*** Metro pre-learning
+** Game
+*** XGame
+**** TODO [#C] add neural network                              :OnFocus:Soon:
+
+* Life
+** exercise once a week                                     :OnInfo:Routines:
+** DD clear                                                 :OnInfo:Routines:
+** Read                                                     :OnInfo:Routines:
+
+* Weekly Review
