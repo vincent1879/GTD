@@ -11,6 +11,7 @@
 * Task
 ** TODO [#B] Transfer notes to evernote                       :OnBoring:Soon:
 
+** TODO [#A] Car maintance					:OnInfo:Soon:
 
 * Career
 ** ControlDemo
@@ -30,6 +31,9 @@
 ** Game
 *** XGame
 **** TODO [#C] add neural network                              :OnFocus:Soon:
+** Program
+*** TODO [#C] Python					      :OnFocus:Phase:
+*** TODO [#B] C++					      :OnFocus:Phase:
 
 * Life
 ** exercise once a week                                     :OnInfo:Routines:
