@@ -1,6 +1,7 @@
 * Org-mode configuration
 #+STARTUP: overview 
 #+TAGS:  { OnFocus(f) OnInfo(i) OnBoring(b) }
+#+TAGS:  Home(h) Office(o) Outdoor(u) 
 #+TAGS:  { Soon(s) Phase(p) Routines(r) Someday/Maybe(m) }
 #+SEQ_TODO: TODO(t) Block(b@) | Done(d!) Canceled(c@) 
 #+COLUMNS: %20ITEM  %5PRIORITY %10TODO %65TAGS   
@@ -9,9 +10,8 @@
 * Inbox
 
 * Task
-** TODO [#B] Transfer notes to evernote                       :OnBoring:Soon:
-
-** TODO [#A] Car maintance					:OnInfo:Soon:
+** TODO [#B] Transfer notes to evernote		  :OnBoring:Home:Office:Soon:
+** TODO [#A] Car maintance				:OnInfo:Outdoor:Soon:
 
 * Career
 ** ControlDemo
@@ -23,17 +23,22 @@
 * Training
 ** AI                                                               :OnFocus:
 *** TODO [#C] Graph Theory                                             :Soon:
+*** Ghost
+**** Machine Learning 					      :OnFocus:Phase:
 ** Math                                                             :OnFocus:
 *** Linear Algebra
-**** TODO [#C] LA-Chapter 2                                           :Phase:
+**** TODO [#C] LA-Chapter 2 					      :Phase:
+     To 2.6
+**** [#C] LA-Video					      :OnFocus:Phase:
 ** UI
 *** Metro pre-learning
 ** Game
 *** XGame
 **** TODO [#C] add neural network                              :OnFocus:Soon:
 ** Program
-*** TODO [#C] Python					      :OnFocus:Phase:
-*** TODO [#B] C++					      :OnFocus:Phase:
+*** [#C] Python						      :OnFocus:Phase:
+**** MIT python course
+*** [#B] C++						      :OnFocus:Phase:
 
 * Life
 ** exercise once a week                                     :OnInfo:Routines:
