@@ -12,7 +12,7 @@
 * Task
 ** TODO [#B] Transfer notes to evernote		  :OnBoring:Home:Office:Soon:
    SCHEDULED: <2013-09-09 一>
-** TODO [#A] Car maintance				:OnInfo:Outdoor:Soon:
+** TODO [#A] Car maintenance 				:OnInfo:Outdoor:Soon:
 
 ** TODO [#B] Try emacs on mac				 :OnInfo:Office:Soon:
    SCHEDULED: <2013-09-09 一>
@@ -20,6 +20,8 @@
 ** ControlDemo
 *** TODO [#A] Optimize UI                                      :OnFocus:Soon:
     DEADLINE: <2013-09-10 二 16:00>
+*** TODO [#A] Tweak Pathfinding				:OnFocus:Office:Soon:
+    SCHEDULED: <2013-09-09 Mon>
 ** XCAndroid
 
 * Training
