@@ -1,8 +1,8 @@
 * Org-mode configuration
 #+STARTUP: overview 
-#+TAGS:  { OnFocus(f) OnInfo(i) OnBoring(b) }
-#+TAGS:  Home(h) Office(o) Outdoor(u) 
-#+TAGS:  { Soon(s) Phase(p) Routines(r) Someday/Maybe(m) }
+#+TAGS:  { Focus(f) Fragment(g) }
+#+TAGS:  { Home(h) Office(o) Outdoor(u) } 
+#+TAGS:  { Current(c) Phase(p) Routines(r) Someday(s) }
 #+SEQ_TODO: TODO(t) Block(b@) | Done(d!) Canceled(c@) 
 #+COLUMNS: %20ITEM  %5PRIORITY %10TODO %65TAGS   
 
@@ -10,44 +10,44 @@
 * Inbox
 
 * Task
-** TODO [#B] Transfer notes to evernote		  :OnBoring:Home:Office:Soon:
+** Done [#B] Transfer notes to evernote			   :Fragment:Current:
    SCHEDULED: <2013-09-09 一>
-** TODO [#A] Car maintenance 				:OnInfo:Outdoor:Soon:
-
-** TODO [#B] Try emacs on mac				 :OnInfo:Office:Soon:
+   - State "Done"       from "TODO"       [2013-09-09 Mon 15:52]
+** TODO [#A] Car maintenance				    :Outdoor:Current:
+** TODO [#B] Try emacs on mac			    :Fragment:Office:Current:
    SCHEDULED: <2013-09-09 一>
 * Career
 ** ControlDemo
-*** TODO [#A] Optimize UI                                      :OnFocus:Soon:
+*** TODO [#A] Optimize UI			       :Focus:Office:Current:
     DEADLINE: <2013-09-10 二 16:00>
-*** TODO [#A] Tweak Pathfinding				:OnFocus:Office:Soon:
+*** TODO [#A] Tweak Pathfinding			       :Focus:Office:Current:
     SCHEDULED: <2013-09-09 Mon>
 ** XCAndroid
 
 * Training
-** AI                                                               :OnFocus:
-*** TODO [#C] Graph Theory                                             :Soon:
+** AI
+*** TODO [#C] Graph Theory				      :Focus:Current:
     SCHEDULED: <2013-09-09 一>
 *** Ghost
-**** Machine Learning 					      :OnFocus:Phase:
-** Math                                                             :OnFocus:
+**** Machine Learning						:Focus:Phase:
+** Math
 *** Linear Algebra
-**** TODO [#C] LA-Chapter 2 					      :Phase:
+**** TODO [#C] LA-Chapter 2				   :Focus:Home:Phase:
      To 2.6
-**** [#C] LA-Video					      :OnFocus:Phase:
+**** [#C] LA-Video						:Focus:Phase:
 ** UI
 *** Metro pre-learning
 ** Game
 *** XGame
-**** TODO [#C] add neural network                              :OnFocus:Soon:
+**** TODO [#C] add neural network			      :Focus:Current:
 ** Program
-*** [#C] Python						      :OnFocus:Phase:
-**** MIT python course
-*** [#B] C++						      :OnFocus:Phase:
+*** Python
+**** TODO [#C] MIT python course				:Focus:Phase:
+*** C++
 
 * Life
-** exercise once a week                                     :OnInfo:Routines:
-** DD clear                                                 :OnInfo:Routines:
-** Read                                                     :OnInfo:Routines:
+** exercise once a week				  :Fragment:Outdoor:Routines:
+** DD clear					  :Fragment:Outdoor:Routines:
+** Read						     :Fragment:Home:Routines:
 
 * Weekly Review
