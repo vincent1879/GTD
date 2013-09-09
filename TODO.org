@@ -11,18 +11,21 @@
 
 * Task
 ** TODO [#B] Transfer notes to evernote		  :OnBoring:Home:Office:Soon:
+   SCHEDULED: <2013-09-09 一>
 ** TODO [#A] Car maintance				:OnInfo:Outdoor:Soon:
 
+** TODO [#B] Try emacs on mac				 :OnInfo:Office:Soon:
+   SCHEDULED: <2013-09-09 一>
 * Career
 ** ControlDemo
 *** TODO [#A] Optimize UI                                      :OnFocus:Soon:
     DEADLINE: <2013-09-10 二 16:00>
-
 ** XCAndroid
 
 * Training
 ** AI                                                               :OnFocus:
 *** TODO [#C] Graph Theory                                             :Soon:
+    SCHEDULED: <2013-09-09 一>
 *** Ghost
 **** Machine Learning 					      :OnFocus:Phase:
 ** Math                                                             :OnFocus:
