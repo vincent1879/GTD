@@ -18,8 +18,9 @@
    SCHEDULED: <2013-09-09 一>
 * Career
 ** ControlDemo
-*** TODO [#A] Optimize UI			       :Focus:Office:Current:
+*** Done [#A] Optimize UI			       :Focus:Office:Current:
     DEADLINE: <2013-09-10 二 16:00>
+    - State "Done"       from "TODO"       [2013-09-10 Tue 17:27]
 *** TODO [#A] Tweak Pathfinding			       :Focus:Office:Current:
     SCHEDULED: <2013-09-09 Mon>
 ** XCAndroid
