@@ -13,42 +13,52 @@
 ** Done [#B] Transfer notes to evernote			   :Fragment:Current:
    SCHEDULED: <2013-09-09 一>
    - State "Done"       from "TODO"       [2013-09-09 Mon 15:52]
-** TODO [#A] Car maintenance				    :Outdoor:Current:
-** TODO [#B] Try emacs on mac			    :Fragment:Office:Current:
+** TODO [#A] Car maintenance			   :Fragment:Outdoor:Current:
+   SCHEDULED: <2013-09-11 Wed>
+** Done [#B] Try emacs on mac			    :Fragment:Office:Current:
    SCHEDULED: <2013-09-09 一>
+   - State "Done"       from "TODO"       [2013-09-11 Wed 15:04]
+** TODO [#A] Get Mooncake			   :Fragment:Outdoor:Current:
+   SCHEDULED: <2013-09-11 Wed>
 * Career
 ** ControlDemo
 *** Done [#A] Optimize UI			       :Focus:Office:Current:
     DEADLINE: <2013-09-10 二 16:00>
     - State "Done"       from "TODO"       [2013-09-10 Tue 17:27]
-*** TODO [#A] Tweak Pathfinding			       :Focus:Office:Current:
+*** Done [#A] Tweak Pathfinding			       :Focus:Office:Current:
     SCHEDULED: <2013-09-09 Mon>
+    - State "Done"       from "TODO"       [2013-09-11 Wed 11:01]
 ** XCAndroid
+
 
 * Training
 ** AI
-*** TODO [#C] Graph Theory				      :Focus:Current:
-    SCHEDULED: <2013-09-09 一>
+*** Algorithm
+**** TODO [#C] 6.046 Introduce to algorithms			:Focus:Phase:
+**** TODO [#C] 6.889 algorithms for planar graphs		:Focus:Phase:
 *** Ghost
-**** Machine Learning						:Focus:Phase:
+**** TODO [#C] Machine Learning					:Focus:Phase:
+**** TODO [#C] Learning neural network				:Focus:Phase:
 ** Math
 *** Linear Algebra
 **** TODO [#C] LA-Chapter 2				   :Focus:Home:Phase:
      To 2.6
-**** [#C] LA-Video						:Focus:Phase:
+**** TODO [#C] LA-Video						:Focus:Phase:
 ** UI
 *** Metro pre-learning
 ** Game
 *** XGame
-**** TODO [#C] add neural network			      :Focus:Current:
 ** Program
 *** Python
 **** TODO [#C] MIT python course				:Focus:Phase:
+     SCHEDULED: <2013-09-11 Wed>
 *** C++
 
 * Life
-** exercise once a week				  :Fragment:Outdoor:Routines:
-** DD clear					  :Fragment:Outdoor:Routines:
-** Read						     :Fragment:Home:Routines:
+** TODO [#A] 20min for adding & marking task		  :Fragment:Routines:
+   SCHEDULED: <2013-09-12 Thu>
+** TODO [#C] exercise once a week		  :Fragment:Outdoor:Routines:
+** TODO [#C] DD clear				  :Fragment:Outdoor:Routines:
+** TODO [#C] Read				     :Fragment:Home:Routines:
 
 * Weekly Review
