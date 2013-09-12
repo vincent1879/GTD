@@ -18,8 +18,12 @@
 ** Done [#B] Try emacs on mac			    :Fragment:Office:Current:
    SCHEDULED: <2013-09-09 一>
    - State "Done"       from "TODO"       [2013-09-11 Wed 15:04]
-** TODO [#A] Get Mooncake			   :Fragment:Outdoor:Current:
+** Done [#A] Get Mooncake			   :Fragment:Outdoor:Current:
    SCHEDULED: <2013-09-11 Wed>
+   - State "Done"       from "TODO"       [2013-09-12 Thu 09:29]
+** Done [#B] configure vim on windows		    :Fragment:Office:Current:
+   SCHEDULED: <2013-09-12 Thu>
+   - State "Done"       from "TODO"       [2013-09-12 Thu 16:46]
 * Career
 ** ControlDemo
 *** Done [#A] Optimize UI			       :Focus:Office:Current:
@@ -28,6 +32,12 @@
 *** Done [#A] Tweak Pathfinding			       :Focus:Office:Current:
     SCHEDULED: <2013-09-09 Mon>
     - State "Done"       from "TODO"       [2013-09-11 Wed 11:01]
+*** TODO [#A] Optimize move			       :Focus:Office:Current:
+    SCHEDULED: <2013-09-12 Thu>
+*** TODO [#A] Optimize camera			       :Focus:Office:Current:
+    SCHEDULED: <2013-09-12 Thu>
+*** TODO [#A] Optimize other			       :Focus:Office:Current:
+    SCHEDULED: <2013-09-12 Thu>
 ** XCAndroid
 
 
@@ -50,13 +60,15 @@
 *** XGame
 ** Program
 *** Python
-**** TODO [#C] MIT python course				:Focus:Phase:
-     SCHEDULED: <2013-09-11 Wed>
+**** TODO [#C] review mit python course 			:Focus:Phase:
+     SCHEDULED: <2013-09-12 Thu>
+**** TODO [#A] finish mit python course				:Focus:Phase:
 *** C++
 
 * Life
-** TODO [#A] 20min for adding & marking task		  :Fragment:Routines:
+** Done [#A] 20min for adding & marking task		  :Fragment:Routines:
    SCHEDULED: <2013-09-12 Thu>
+   - State "Done"       from "TODO"       [2013-09-12 Thu 11:44]
 ** TODO [#C] exercise once a week		  :Fragment:Outdoor:Routines:
 ** TODO [#C] DD clear				  :Fragment:Outdoor:Routines:
 ** TODO [#C] Read				     :Fragment:Home:Routines:
