@@ -37,6 +37,10 @@
 *** TODO [#C] XGame						:Focus:Later:
 
 ** Program
+*** TODO [#B] Master edit				   :Fragment:Current:
+
+
+    SCHEDULED: <2013-09-13 Fri>
 *** Python
 **** TODO [#C] MIT Python Course			      :Focus:Current:
      SCHEDULED: <2013-09-13 Fri>
