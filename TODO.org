@@ -2,75 +2,50 @@
 #+STARTUP: overview 
 #+TAGS:  { Focus(f) Fragment(g) }
 #+TAGS:  { Home(h) Office(o) Outdoor(u) } 
-#+TAGS:  { Current(c) Phase(p) Routines(r) Someday(s) }
-#+SEQ_TODO: TODO(t) Block(b@) | Done(d!) Canceled(c@) 
+#+TAGS:  { Current(c) Routine(r) Later(l) }
+#+SEQ_TODO: TODO(t) | Done(d!) Canceled(c@) 
 #+COLUMNS: %20ITEM  %5PRIORITY %10TODO %65TAGS   
 
 
 * Inbox
 
 * Task
-** Done [#B] Transfer notes to evernote			   :Fragment:Current:
-   SCHEDULED: <2013-09-09 一>
-   - State "Done"       from "TODO"       [2013-09-09 Mon 15:52]
-** TODO [#A] Car maintenance			   :Fragment:Outdoor:Current:
-   SCHEDULED: <2013-09-11 Wed>
-** Done [#B] Try emacs on mac			    :Fragment:Office:Current:
-   SCHEDULED: <2013-09-09 一>
-   - State "Done"       from "TODO"       [2013-09-11 Wed 15:04]
-** Done [#A] Get Mooncake			   :Fragment:Outdoor:Current:
-   SCHEDULED: <2013-09-11 Wed>
-   - State "Done"       from "TODO"       [2013-09-12 Thu 09:29]
-** Done [#B] configure vim on windows		    :Fragment:Office:Current:
-   SCHEDULED: <2013-09-12 Thu>
-   - State "Done"       from "TODO"       [2013-09-12 Thu 16:46]
+
 * Career
-** ControlDemo
-*** Done [#A] Optimize UI			       :Focus:Office:Current:
-    DEADLINE: <2013-09-10 二 16:00>
-    - State "Done"       from "TODO"       [2013-09-10 Tue 17:27]
-*** Done [#A] Tweak Pathfinding			       :Focus:Office:Current:
-    SCHEDULED: <2013-09-09 Mon>
-    - State "Done"       from "TODO"       [2013-09-11 Wed 11:01]
-*** TODO [#A] Optimize move			       :Focus:Office:Current:
-    SCHEDULED: <2013-09-12 Thu>
-*** TODO [#A] Optimize camera			       :Focus:Office:Current:
-    SCHEDULED: <2013-09-12 Thu>
-*** TODO [#A] Optimize other			       :Focus:Office:Current:
-    SCHEDULED: <2013-09-12 Thu>
-** XCAndroid
-
-
+** TODO [#A] ControlDemo Optimize		       :Focus:Office:Current:
+   DEADLINE: <2013-09-17 Tue>
+** TODO [#A] XComAndroid				 :Focus:Office:Later:
 * Training
-** AI
-*** Algorithm
-**** TODO [#C] 6.046 Introduce to algorithms			:Focus:Phase:
-**** TODO [#C] 6.889 algorithms for planar graphs		:Focus:Phase:
-*** Ghost
-**** TODO [#C] Machine Learning					:Focus:Phase:
-**** TODO [#C] Learning neural network				:Focus:Phase:
+** Algorithm
+*** TODO [#C] 6.046 Introduce to algorithms			:Focus:Later:
+*** TODO [#C] 6.889 algorithms for planar graphs		:Focus:Later:
+
+** Ghost AI
+*** TODO [#C] Machine Learning					:Focus:Later:
+*** TODO [#C] Learning neural network				:Focus:Later:
+
 ** Math
-*** Linear Algebra
-**** TODO [#C] LA-Chapter 2				   :Focus:Home:Phase:
-     To 2.6
-**** TODO [#C] LA-Video						:Focus:Phase:
+*** TODO [#B] Linear Algebra				      :Focus:Current:
+    SCHEDULED: <2013-09-13 Fri>
+*** TODO [#C] Calculus						:Focus:Later:
+*** TODO [#C] Probility						:Focus:Later:
+
 ** UI
-*** Metro pre-learning
+*** TODO [#C] Metro pre-learning			     :Fragment:Later:
+
 ** Game
-*** XGame
+*** TODO [#C] XGame						:Focus:Later:
+
 ** Program
 *** Python
-**** TODO [#C] review mit python course 			:Focus:Phase:
-     SCHEDULED: <2013-09-12 Thu>
-**** TODO [#A] finish mit python course				:Focus:Phase:
+**** TODO [#C] MIT Python Course			      :Focus:Current:
+     SCHEDULED: <2013-09-13 Fri>
 *** C++
 
 * Life
-** Done [#A] 20min for adding & marking task		  :Fragment:Routines:
-   SCHEDULED: <2013-09-12 Thu>
-   - State "Done"       from "TODO"       [2013-09-12 Thu 11:44]
-** TODO [#C] exercise once a week		  :Fragment:Outdoor:Routines:
-** TODO [#C] DD clear				  :Fragment:Outdoor:Routines:
-** TODO [#C] Read				     :Fragment:Home:Routines:
+** TODO [#A] 20min for adding & marking task		  :Fragment:Routines:
+** TODO [#C] exercise once a week		   :Fragment:Outdoor:Routine:
+** TODO [#C] DD clear				   :Fragment:Outdoor:Routine:
+** TODO [#C] Read				      :Fragment:Home:Routine:
 
 * Weekly Review
